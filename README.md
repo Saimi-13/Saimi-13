@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saim
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in Data Analytics / Business Intelligence
 - 🌱 I’m currently learning Python and its different functions
 - 💞️ I’m looking to collaborate on different projects encompassing different areas of frontend development
 - 📫 Reach me @ saimasif1305@gmail.com
